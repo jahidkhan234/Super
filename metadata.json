@@ -1,0 +1,6 @@
+{
+  "name": "Super Baji Clone",
+  "description": "A sports betting and casino frontend template with backend API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
